@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.p-global-nav {
+    padding: .5em;
+    .c-navbar__item {
+        >a {
+            padding: .5rem 2rem;
+        }
+        &.btn {
+            >a {
+                background: #4b60fb;
+                color: #fff;
+                border-radius: 5px;
+            }
+        }
+    }
+}
