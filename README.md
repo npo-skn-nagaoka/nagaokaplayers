@@ -1,1 +1,2 @@
-# nagaokaplayers
+# NAGAOKA PLAYERS
+https://nagaokaplayers.org
